@@ -14,9 +14,9 @@ This work was conducted in the lab/under the guidance of Professor Ken Segall at
 
 ## Literature
 
-Falo, F., Martínez, P., Mazo, J. et al. Fluxon ratchet potentials in superconducting circuits . Appl Phys A 75, 263–269 (2002). https://doi.org/10.1007/s003390201325
-Segall, K., Dioguardi, A.P., Fernandes, N. et al. Experimental Observation of Fluxon Diffusion in Josephson Rings. J Low Temp Phys 154, 41–54 (2009). https://doi.org/10.1007/s10909-008-9849-8
-J. J. Mazo, F. Naranjo, and K. Segall. Phys. Rev. B 78, 174510 – Published 10 November 2008
+<p>Falo, F., Martínez, P., Mazo, J. et al. Fluxon ratchet potentials in superconducting circuits . Appl Phys A 75, 263–269 (2002). https://doi.org/10.1007/s003390201325</p>
+<p>Segall, K., Dioguardi, A.P., Fernandes, N. et al. Experimental Observation of Fluxon Diffusion in Josephson Rings. J Low Temp Phys 154, 41–54 (2009). https://doi.org/10.1007/s10909-008-9849-8</p>
+<p>J. J. Mazo, F. Naranjo, and K. Segall. Phys. Rev. B 78, 174510 – Published 10 November 2008</p>
 
 ## Questions
 Contact me at danhbern@gmail.com
