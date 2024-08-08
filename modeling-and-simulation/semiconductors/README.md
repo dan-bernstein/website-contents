@@ -18,6 +18,6 @@
 
 ## Interpolation of Data
 
-<p>The interpolation of data uses data given for three diodes, for both current and voltage. The data is plotted and interpolated using the  intrpf.m, which uses the lagrange polynomial interpolation method. This section connects the simulation with real data, visualizing against the other curves shown in the previous sections of the code. The interpolation can be done with any set of data, not just the diode data given.</p>
+<p>The interpolation of data uses data given for three diodes, for both current and voltage. The data is plotted and interpolated using  intrpf.m, which uses the lagrange polynomial interpolation method. This section connects the simulation with real data, visualizing against the other curves shown in the previous sections of the code. The interpolation can be done with any set of data, not just the diode data given.</p>
 
 
