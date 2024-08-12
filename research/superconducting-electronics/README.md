@@ -6,7 +6,7 @@ I worked on this research project from Summer 2022 - Fall 2022.
 <p>When cooled down below a given temperature current loops in the array can cause quantized bits of magnetic flux - called fluxons - to become trapped between two junctions in the array. At a certain switching current or thermal energy level, a fluxon will begin to move around the array and a voltage is detectable. Switching current, however, can vary significantly. It is strongly suspected that this variation is caused by production uncertainty in the size of the junctions. The goal of the project is to confidently observe Macroscopic Quantum Tunneling (MQT), which would describe the behavior of the flux in the arrays. It is thought that MQT occurs when the fluxon tunnels from one side of a junction to the other without sufficient energy from an applied current or from heat energy. By sweeping a range of temperatures, ranging from 270 mK to 4 K, or around -450 ℉, the uncertainty in the size of the junctions can begin to be ascertained. As the temperature in the system begins to decrease, distinct switching currents can begin to separate, which likely correspond to slight variations in the size of junctions as a result of manufacturing processes.</p>
 
 ## Files
-
+I have included a copy of a poster prestented about the research projects conducted in the Superconducting electronics lab in Summer 2022. I cannot share the code I wrote specifically for this research since the exact design details of the junction arrays and collected data are not published yet, but can answer any question regarding the computational model.
 
 ## Collaboration
 
